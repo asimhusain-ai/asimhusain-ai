@@ -2,8 +2,6 @@
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-vector/20250728/ourmid/pngtree-male-coder-working-at-desk-with-two-monitors-focused-on-website-png-image_16907923.webp">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asimhusain-ai" alt="asimhusain-ai" /></a> </p>
-
 - 🔭 I’m currently working on **CureHelp**
 
 - 🌱 I’m currently learning **Python for ML, TensorFlow, PyTorch, Scikit-learn, Data Science, Fundamentals Statistics for ML, SQL for Data Analysis, MLOps Basics**
