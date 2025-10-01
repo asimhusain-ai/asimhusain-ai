@@ -145,19 +145,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asimhusain-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="245" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimhusain-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2&custom_title=L%20A%20N%20G%20U%20A%20G%20E%20S" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimhusain-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2&custom_title=L%20A%20N%20G%20U%20A%20G%20E%20S" height="160" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=asimhusain-ai&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=25&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimhusain-ai&custom_title=C%20O%20N%20T%20R%20I%20B%20U%20T%20I%20O%20N%20S&theme=one-dark&radius=16" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<div align="center" bis_skin_checked="1">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asimhusain-ai/asimhusain-ai/refs/heads/main/github-user-contribution.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asimhusain-ai/asimhusain-ai/refs/heads/main/github-user-contribution.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asimhusain-ai/asimhusain-ai/refs/heads/main/github-user-contribution.svg">
-    </picture>
-</div>
+<img src="https://raw.githubusercontent.com/asimhusain-ai/asimhusain-ai/output/snake.svg" alt="Snake animation" />
 
 ###
