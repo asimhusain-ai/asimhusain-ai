@@ -6,6 +6,12 @@
 
 <h1 align="center">Hello 👋 Asim Husain</h1>
 
+<div align="center">
+  <img height="120" src="https://github.blog/wp-content/uploads/2024/11/github-foundations-certification.png?w=1024&resize=1024%2C1024" alt="GitHub Foundations Badge"/>
+  <br>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/asimhisain-ai/AFAA28471679E673?sharingId=AF5276DA5CCA289D" target="_blank"><b>See Credential</b></a>
+</div>
+
 ###
 
 <h3 align="center">AI/ML Engineer</h3>
@@ -158,5 +164,3 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asimhusain-ai/asimhusain-ai/refs/heads/main/github-user-contribution.svg">
     </picture>
 </div>
-
-###
