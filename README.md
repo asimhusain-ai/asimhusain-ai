@@ -151,6 +151,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asimhusain-ai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="245" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asimhusain-ai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=true&order=2&custom_title=L%20A%20N%20G%20U%20A%20G%20E%20S" height="193" alt="languages graph"  />
   
   <img src="https://streak-stats.demolab.com?user=asimhusain-ai&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=25&order=3" height="200" alt="streak graph"  />
 </div>
