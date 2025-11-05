@@ -7,14 +7,26 @@
 <h1 align="center">Hello 👋 Asim Husain</h1>
 
 <div align="center">
-  <img height="120" src="https://github.blog/wp-content/uploads/2024/11/github-foundations-certification.png?w=1024&resize=1024%2C1024" alt="GitHub Foundations Badge"/>
-  <br>
+  <img height="120" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-foundations.svg?branch=main" alt="GitHub Foundations Badge"/>
+  
+  <img width="40" />
+  
+  <img height="120" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/github-copilot.svg?branch=main" alt="GitHub Copilot Badge"/>
+
+  
+
+  <!-- Both credential links with solid space between -->
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/asimhisain-ai/AFAA28471679E673?sharingId=AF5276DA5CCA289D" target="_blank"><b>See Credential</b></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/asimhisain-ai/credentials/b28390e691c3d95f" target="_blank"><b>See Credential</b></a>
 </div>
+
+
+
 
 ###
 
-<h3 align="center">Software Developer</h3>
+<h3 align="center">AI/ML Engineer</h3>
 
 ###
 
@@ -22,7 +34,7 @@
 
 ###
 
-<h6 align="left">I’m an aspiring Machine Learning Engineer with a strong focus on Python, AI/ML pipelines, and Generative AI (LLMs). I enjoy building smart, data-driven applications and have hands-on experience in automation, software development, and API | AI integration. With tools like Docker, CI/CD, and cloud workflows, I work on creating scalable and practical solutions that bring together AI, automation, and real-time data to solve real-world problems.</h6>
+<h6 align="left">I’m an AI/ML Engineer and a B.Tech student in Computer Science specializing in Artificial Intelligence and Machine Learning. My expertise lies in Python, AI/ML pipelines, and Generative AI (LLMs), with a passion for designing and developing reliable, efficient, and scalable software solutions. I enjoy building smart, data-driven applications and have hands-on experience in automation, software development, and API | AI integration. Leveraging tools like Docker, CI/CD, and cloud workflows, I focus on creating scalable, real-world solutions that merge AI, automation, and real-time data for maximum impact. I’m highly motivated to learn, contribute, and grow across all stages of the software development lifecycle, continuously exploring how modern development practices and AI technologies can reshape the future of intelligent systems.</h6>
 
 ###
 
@@ -53,7 +65,7 @@
   <a href="mailto:studyboyasim01@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
   </a>
-  <a href="href="https://www.leetcode.com/asimhusain01" target="_blank">
+  <a href="https://www.leetcode.com/asimhusain01" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="50" height="30" alt="hackerrank logo"  />
   </a>
   <a href="https://wa.me/917310647227" target="_blank">
