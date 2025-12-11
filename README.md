@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">AI/ML Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ###
 
